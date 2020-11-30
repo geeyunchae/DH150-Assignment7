@@ -17,8 +17,8 @@ After the user picks the recipe, the user has the option to check out the ingred
 ### Task 1 : Looking for recipes that the users want.
 ![image](flow3.png)
 ### Task 2: Looking for the list of options of nearby grocery stroes.
-![image](flow2.png)
+![image](floww2.png)
 ### Task 3: Trrying to check out the shopping carts.
-![image](flow3.png)
+![image](floww3.png)
 
 
