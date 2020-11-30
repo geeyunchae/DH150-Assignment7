@@ -21,4 +21,10 @@ After the user picks the recipe, the user has the option to check out the ingred
 ### Task 3: Trrying to check out the shopping carts.
 ![image](floww3.png)
 
-
+## Interactive Prototype
+### Task 1 : Looking for recipes that the users want.
+https://xd.adobe.com/view/c56e1e42-bad8-486b-9214-dd8a1bed1be2-903d/
+### Task 2: Looking for the list of options of nearby grocery stroes.
+https://xd.adobe.com/view/9547c186-82d8-423e-b47a-a2b4aa35c1ef-c014/
+### Task 3: Trrying to check out the shopping carts.
+https://xd.adobe.com/view/33bbb3d6-c736-4eff-b60b-538420b27078-66e8/
