@@ -23,7 +23,7 @@ After the user picks the recipe, the user has the option to check out the ingred
 
 ## Interactive Prototype
 ### Task 1 : Looking for recipes that the users want.
-https://xd.adobe.com/view/c56e1e42-bad8-486b-9214-dd8a1bed1be2-903d/
+https://xd.adobe.com/view/5192e737-87be-4c33-bd8c-1007db9afc05-04c1/
 ### Task 2: Looking for the list of options of nearby grocery stroes.
 https://xd.adobe.com/view/9547c186-82d8-423e-b47a-a2b4aa35c1ef-c014/
 ### Task 3: Trrying to check out the shopping carts.
