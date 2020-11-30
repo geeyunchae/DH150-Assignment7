@@ -32,8 +32,8 @@ https://xd.adobe.com/view/33bbb3d6-c736-4eff-b60b-538420b27078-66e8/
 ## Changes from Previous Iterations
 Fist, I reorganized the categories on the main menu from Appetizers, Main Dishes, Popular Dishes, and Desserts to Appetizers, Breakfast,Lunch, Dinner. I reorgnized the categories, so that the user's search can arrive in more satisfying results. Instead of placing the filter bar underneath the banner, I embedded the filter option into an icon on the upper left hand corner. I also added a personal notification on the right hand corner, so that the user can check their order status and updates after they place their orders. Additionally, instead of listing the ingredients on the check out page, I created a new page for the check out section to minimize confusion. 
 
-More Information on the user personas and tasks can be found here :
-https://github.com/geeyunchae/DH150-Assignment5 .
-More Information on the Low-fidelity Prototypes can be found here:
+- More Information on the user personas and tasks can be found here :
+https://github.com/geeyunchae/DH150-Assignment5 
+- More Information on the Low-fidelity Prototypes can be found here:
 https://docs.google.com/presentation/d/1E56-ncEU0sxBD47r09uu68srVMo9PTEddVgFXbjowuo/edit?usp=sharing
 https://docs.google.com/presentation/d/1b2ONI2hN6F3NBbLEs0OYS90shQ6gfe4-SzAvcnWQ--A/edit?usp=sharing
