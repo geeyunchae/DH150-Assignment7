@@ -8,19 +8,19 @@ Description of Project: This High Fidelity Prototype was done in several phases 
 ## Graphic Interface
 For ensuring the easy-to-use approach for this app, I considered all the comments from the virtual class review. I has few concerns about the font colors and the size of the buttons. I also made corrections and redesinged the functions such as "filter app" to make sure it does not confuse the users.  
 1.   
-![image](design1)
+![image](1). 
 I changed the filter bar from being on top of the page to a button on the upper left hand corner to make the overall design more clean. 
-![image](design2)
-
+![image](2). 
+ 
 2.   
-![image](design3)
+![image](3). 
 I had a lot of feedbacks on the contrast of color, so I changed the fonts to darker color from (#2699FB) to black (#070606).   
-![image](design4)
+![image](4). 
 
 3.   
-![image](design5)
+![image](5). 
 For this, I changed the font color along with enlarging the button size to make the tasks easier for the user.   
-![image](design6)
+![image](6). 
 
 ## Tasks
 ### Task 1: Looking for recipes that the users want.
