@@ -5,6 +5,20 @@
 purpose: The purpose of this Hight-Fdelity test is to visualize the information and validify the interaction flow of how the user's choice will branch out on the App "CookCart". 
 Description of Project: This High Fidelity Prototype was done in several phases including usability testing, user personas scenarios, hand-drew low-fidelity wire frames and wireflows. I was able to receive feedbacks from classmates and participants to make easier user flow throughout the process. I was focused on building a easy-to-use cooking recipe app that allows oneself the purchase the ingredients right off the app. I used Adobe Xd and food images from google. 
 
+## Graphic Interface
+For ensuring the easy-to-use approach for this app, I considered all the comments from the virtual class review. I has few concerns about the font colors and the size of the buttons. I also made corrections and redesinged the functions such as "filter app" to make sure it does not confuse the users.
+1. ![image](design1)
+I changed the filter bar from being on top of the page to a button on the upper left hand corner to make the overall design more clean. 
+1[image](design2)
+
+2. ![image](design3)
+I had a lot of feedbacks on the contrast of color, so I changed the fonts to darker color from (#2699FB) to black (#070606). 
+![image](design4)
+
+3. 1[image](design4)
+For this, I changed the font color along with enlarging the button size to make the tasks easier for the user. 
+![image](design5)
+
 ## Tasks
 ### Task 1: Looking for recipes that the users want.
 In this task, the user first interacts with list of options in the first page of the app. The user is allowed to pick the broad category (Appetizers, Lunch, Dinner, and Breakfast) of their recipes. If they want to narrow down the options or go into an accurate search, they will have the option to apply filter to their searches. The searches give user more detailed options with the selection of main ingredient of the menu, portion size, cooking duration time, cooking level, and calories. After user access to the list of options, they just need to simply click on the recipe that they like to see a video guidance along with descriptive procedure of the recipe, and the list of ingredients. On the bottom of the page, there is a button of "Shop Ingredients" which will lead the user to shop those ingredients that they are missing from the recipe.
