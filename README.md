@@ -18,9 +18,9 @@ I had a lot of feedbacks on the contrast of color, so I changed the fonts to dar
 ![image](design4)
 
 3.   
-![image](design4)
-For this, I changed the font color along with enlarging the button size to make the tasks easier for the user.   
 ![image](design5)
+For this, I changed the font color along with enlarging the button size to make the tasks easier for the user.   
+![image](design6)
 
 ## Tasks
 ### Task 1: Looking for recipes that the users want.
