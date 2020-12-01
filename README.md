@@ -8,13 +8,13 @@ Description of Project: This High Fidelity Prototype was done in several phases 
 ## Graphic Interface
 For ensuring the easy-to-use approach for this app, I considered all the comments from the virtual class review. I has few concerns about the font colors and the size of the buttons. I also made corrections and redesinged the functions such as "filter app" to make sure it does not confuse the users.  
  
-![image](11.png) ![image](22.png) ![image](111.png)
+![image](11.png) ![image](22.png) ![image](111.PNG)
 I changed the filter bar from being on top of the page to a button on the upper left hand corner to make the overall design more clean.  
     
-![image](33.png) ![image](44.png) ![image](222.png)
+![image](33.png) ![image](44.png) ![image](222.PNG)
 I had a lot of feedbacks on the contrast of color, so I changed the fonts to darker color from (#2699FB) to black (#070606) from adobe xd.   
    
-![image](55.png) ![image](66.png) ![image](333.png)
+![image](55.png) ![image](66.png) ![image](333.PNG)
 For this screen, I changed the font color along with enlarging the button size to make the tasks easier for the user.   
 
 
