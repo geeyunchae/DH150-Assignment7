@@ -27,7 +27,8 @@ After exploring the menu, the user can click on the "shop ingredient" which will
 ### Task 3: Trying to check out the shopping carts.
 After the user picks the recipe, the user has the option to check out the ingredients right away, or to save it for later in their cart. When they pick all the options such as which grocery stores, narrowing down the recipes that they need, they will be given the option to check out or to add the ingredients to the bag. When the user taps on the check-out button, they will be directed to payment page where they will need to add their credit card information. After, they can click on the process payment button and will be followed by a page indicating that the order has been placed. It will allow them to track the order status or go back to the main menu on the confirmation page. The user will receive their updates or notifications from the icon on the upper right hand corner.   
 
-https://drive.google.com/file/d/1nlmHPFgVugPuqlfSgGSSvWhqBG2-rmsL/view?usp=sharing
+
+https://drive.google.com/file/d/1OQHViszdabtOPq0YoOoDwGJJMQcW-0dF/view?usp=sharing
 
 
 ## Wireframes - Screenshot of Frames from Each Tasks
