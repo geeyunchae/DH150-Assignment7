@@ -8,7 +8,7 @@ Description of Project: This High Fidelity Prototype was done in several phases 
 ## Graphic Interface
 For ensuring the easy-to-use approach for this app, I considered all the comments from the virtual class review. I has few concerns about the font colors and the size of the buttons. I also made corrections and redesinged the functions such as "filter app" to make sure it does not confuse the users. I chose the icons that would be familiar and chose the font that it easily readable to users in all the age groups. I tried to ensure that all the functions are placed on the best position that does not distract the flow of the users while using the app. For the color contrast accessibility check, I used the WebAim and retrieved the color codes from Adobe Xd.
  
-![image](11.png) ![image](22.png) ![image](111.PNG)  
+![image](11.png) ![image](123.png) ![image](111.PNG)  
 I changed the filter bar from being on top of the page to a button on the upper left hand corner to make the overall design more clean. The font color (#000000) and the background color (#F1EEEE) was tested and resulted in the ratio of 18.2:1. 
     
 ![image](33.png) ![image](44.png) ![image](222.PNG)  
