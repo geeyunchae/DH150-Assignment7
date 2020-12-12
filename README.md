@@ -39,6 +39,17 @@ https://drive.google.com/file/d/1OQHViszdabtOPq0YoOoDwGJJMQcW-0dF/view?usp=shari
 ### Task 3: Trrying to check out the shopping carts.
 ![image](floww3.png)
 
+## Impression Test
+[![Pitch Video](http://img.youtube.com/vi/uC4VnwqTMFY/0.jpg)](https://youtu.be/uC4VnwqTMFY)
+Bella Yang (30 yrs)
+- she stated that the colors of the fonts would be better if it was darker. The overall flow of the app was pretty up to the point. She also recommended to elaborate more on design elements such as logos. Additionally, I was able to gain a feedback that the hamburger icon was a bit confusing.
+
+[![Impression test](http://img.youtube.com/vi/uIYc0HsAF3Y/0.jpg)](https://youtu.be/uIYc0HsAF3Y)
+Jenny Jeon (28 yrs)
+- She gave me feedbacks of the flow. She pointed out the buttons and icons that were not working. She also suggested about the font colors, which some of the arrangements of the colors were hard to read. She also added on by advising that some of the buttons should be enlarged. She said overall wireflow was easy, but might cause a little confusion for the non-tech saavy group.
+
+- For these two comments, I considered all the design elements, and made corrections accordingly.
+
 ## Interactive Prototype
 ### Task 1 : Looking for recipes that the users want.
 https://xd.adobe.com/view/5192e737-87be-4c33-bd8c-1007db9afc05-04c1/
